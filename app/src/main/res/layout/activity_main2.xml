@@ -5,11 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity2">
-
     <TextView
         android:id="@+id/textView2"
         android:layout_width="309dp"
         android:layout_height="356dp"
         android:text="TextView" />
-
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
